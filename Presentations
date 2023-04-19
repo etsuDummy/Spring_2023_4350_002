@@ -11,7 +11,7 @@ Lifecycle Models and Process
 1.	Kanban (Software Development)		- John Milhorn - Done https://youtu.be/Lw1NVGplgRE, Daniel Dotson: Done2 https://youtu.be/z_k8XKWC43s
 2.	Crystal (Software Development)Colby Kledis: Done https://www.youtube.com/watch?v=Rx-_L567HSY , Victoria Dixon: Done https://youtu.be/cYh5g1Ulsqc
 3.	Team Software Process and Personal Software Process		- Brendan Jones
-4.	Build Automation	- Hannah Taylor: Done https://youtu.be/KCFvFgn_jAw , Alex Byars			
+4.	Build Automation	- Hannah Taylor: Done https://youtu.be/KCFvFgn_jAw			
 
 Project Management and Professional Practice
 5.	Risk Management	- Adelaide Damrau	& Janine Day (pair): Done https://youtu.be/1pWESXxJwNQ, Garred Hawkins: Done https://www.youtube.com/watch?v=CjRSJjvGKGs
@@ -31,17 +31,18 @@ Software Architectures and Tools
 17.	Splunk (for DevOps)	- Adelaide Damrau: Done2 https://www.youtube.com/watch?v=A6aBo0vNN-w
 18.	Selenium - Elliott Kaferle, Trevor Taylor:Done https://youtu.be/sz2bBhs52WQ
 19.	AppDynamics	- Victoria Dixon
-    Microservices - Raekwon Adams-Rodgers, Trevor Taylor
+20. Microservices - Raekwon Adams-Rodgers, Trevor Taylor
+21. Low-Code/No-Code Development - Alex Byars: https://youtu.be/PqCRDtLR-8o
 
 Development Paradigms and Testing
-20.	Test-Driven Development - Chase Walton: https://youtu.be/lOXQH3bFIBs
-21.	Behavior Driven Development - Josiah Truelove: Done https://www.youtube.com/watch?v=QWkZ7euc8hc Logan Wilson Done https://youtu.be/saVZOp2erKY
+22.	Test-Driven Development - Chase Walton: https://youtu.be/lOXQH3bFIBs
+23.	Behavior Driven Development - Josiah Truelove: Done https://www.youtube.com/watch?v=QWkZ7euc8hc Logan Wilson Done https://youtu.be/saVZOp2erKY
 
-22.	Feature Driven Development - Janine Day: Done2 https://youtu.be/NiWvEYf5gWw
-23.	Dependency Injection - Hannah Taylor; Liam Whitelaw
+24.	Feature Driven Development - Janine Day: Done2 https://youtu.be/NiWvEYf5gWw
+25.	Dependency Injection - Hannah Taylor; Liam Whitelaw
 
 
 AI in SE
-24. AI for code completion - Austin Hamilton: Done https://youtu.be/nUh3Toglcpc, Ethan Morgan: Done https://youtu.be/6DmhmZqA7b0
-25. AI for code creation (where the AI writes all the code) Brandon Beaudry: Done https://www.youtube.com/watch?v=gg9sGFtAtbU, Alex Byars: Done https://www.youtube.com/watch?v=8jlCjGgaQDY
-26. AI for code analysis - Logan Wilson https://youtu.be/XWBSMzhG9pE, Garred Hawkins https://youtu.be/IXFKi_Gc5vs 
+26. AI for code completion - Austin Hamilton: Done https://youtu.be/nUh3Toglcpc, Ethan Morgan: Done https://youtu.be/6DmhmZqA7b0
+27. AI for code creation (where the AI writes all the code) Brandon Beaudry: Done https://www.youtube.com/watch?v=gg9sGFtAtbU, Alex Byars: Done https://www.youtube.com/watch?v=8jlCjGgaQDY
+28. AI for code analysis - Logan Wilson https://youtu.be/XWBSMzhG9pE, Garred Hawkins https://youtu.be/IXFKi_Gc5vs 
