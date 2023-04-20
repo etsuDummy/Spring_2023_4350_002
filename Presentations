@@ -10,7 +10,7 @@ you can team up with someone and co-present: if you do team up, the presentation
 Lifecycle Models and Process
 1.	Kanban (Software Development)		- John Milhorn - Done https://youtu.be/Lw1NVGplgRE, Daniel Dotson: Done2 https://youtu.be/z_k8XKWC43s
 2.	Crystal (Software Development)Colby Kledis: Done https://www.youtube.com/watch?v=Rx-_L567HSY , Victoria Dixon: Done https://youtu.be/cYh5g1Ulsqc
-3.	Team Software Process and Personal Software Process		- Brendan Jones
+3.	Team Software Process and Personal Software Process		- 
 4.	Build Automation	- Hannah Taylor: Done https://youtu.be/KCFvFgn_jAw , Alex Byars			
 
 Project Management and Professional Practice
@@ -22,16 +22,16 @@ Project Management and Professional Practice
 10.	Software Engineering Licensing - Josiah Truelove, Reagan Mullins : Done https://youtu.be/qkj6-q3slnw
 
 Software Architectures and Tools
-11.	Service-Oriented Architecture	- Liam Whitelaw
-12.	Infrastructure as a Service: Daniel Dotson: Done https://youtu.be/7SCobvWnEo0 , John Milhorn
+11.	Service-Oriented Architecture	- Liam Whitelaw (in person), Stephen Maurer	
+12.	Infrastructure as a Service: Daniel Dotson: Done https://youtu.be/7SCobvWnEo0 , John Milhorn - https://youtu.be/mZ6xGU92GJ4
 13.	Platform as a Service - Payne Meade: Done https://youtu.be/2WiG3AZ4Qqw , Ethan Morgan: Done https://youtu.be/7Ulu7HfRMMg			
 14.	Docker - Alec Ratner: Done2 https://youtu.be/rVF-u7f7NAY, Raekwon Adams-Rodgers: Done https://youtu.be/_VbirKT_Kjc, Daniel Dotson: Playlist with 2 videos: https://youtube.com/playlist?list=PLQkpFBH1R99LkikMd8ogQunOjB138K9ij
 15.	Ansible - Elliott Kaferle: Done https://youtu.be/MlSEq4JBOg4, Reagan Mullins: done2 https://youtu.be/diDS9Gwyyu8
 16.	Jenkins: Chase Walton: Done https://youtu.be/884WfHYsUqo, Stephen Maurer: Done https://www.loom.com/share/53e1996c288f409db7c073565c8bff3f
 17.	Splunk (for DevOps)	- Adelaide Damrau: Done2 https://www.youtube.com/watch?v=A6aBo0vNN-w
-18.	Selenium - Elliott Kaferle, Trevor Taylor:Done https://youtu.be/sz2bBhs52WQ
-19.	AppDynamics	- Victoria Dixon
-    Microservices - Raekwon Adams-Rodgers, Trevor Taylor
+18.	Selenium - Elliott Kaferle: https://youtu.be/SDJia2ZScbE, Trevor Taylor:Done https://youtu.be/sz2bBhs52WQ
+19.	AppDynamics	- Victoria Dixon: Done https://youtu.be/J4P-fcEjo4A
+    Microservices - Raekwon Adams-Rodgers, Trevor Taylor:https://youtu.be/v1Y9gIVnkMs
 
 Development Paradigms and Testing
 20.	Test-Driven Development - Chase Walton: https://youtu.be/lOXQH3bFIBs
@@ -45,3 +45,6 @@ AI in SE
 24. AI for code completion - Austin Hamilton: Done https://youtu.be/nUh3Toglcpc, Ethan Morgan: Done https://youtu.be/6DmhmZqA7b0
 25. AI for code creation (where the AI writes all the code) Brandon Beaudry: Done https://www.youtube.com/watch?v=gg9sGFtAtbU, Alex Byars: Done https://www.youtube.com/watch?v=8jlCjGgaQDY
 26. AI for code analysis - Logan Wilson https://youtu.be/XWBSMzhG9pE, Garred Hawkins https://youtu.be/IXFKi_Gc5vs 
+27.    Genetic Algorithms - Brendan Jones https://youtu.be/tx_FLlb4xs0
+
+
